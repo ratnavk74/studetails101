@@ -8,9 +8,9 @@ if len(sys.argv) ==3:
 else:
     script_name = sys.argv[0]
     name = "Deepa"
-    roll = "101"
+    rollno = "101"
     print("No input given --using default values:")
 
 print("Script Name:",script_name)
 print("Student Name:",name)
-print("Roll Number:",roll)
+print("Roll Number:",rollno)
